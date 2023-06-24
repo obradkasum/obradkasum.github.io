@@ -2,16 +2,16 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: <a href='https://www.imj-prg.fr/en/'>Institut de Mathématiques de Jussieu-Paris Rive Gauche</a>
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: IMG_20230618_221513_632.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Office 747</p>
+    <p>8 Place Aurélie Nemours</p>
+    <p>Paris, France</p>
 
 news: true  # includes a list of news items
 latest_posts: true  # includes a list of the newest posts
