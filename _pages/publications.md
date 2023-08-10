@@ -2,7 +2,7 @@
 layout: page
 permalink: /publications/
 title: Publications
-description: <a href="https://scholar.google.com/citations?user=UJWY9B0AAAAJ&hl=en"> Google Scholar </a>
+description: [Google Scholar](https://scholar.google.com/citations?user=UJWY9B0AAAAJ&hl=en)
 years: [2023, 2018, 2015, 2014]
 nav: true
 nav_order: 1
