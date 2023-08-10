@@ -19,4 +19,4 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-I am a PhD student in Set Theory at <a href='#'>Université Paris Cité</a>, jointly supervised by <a href='#'>Boban Veličković</a> and <a href='#'>Grigor Sargsyan</a>.
+I am a PhD student in Set Theory at <a href='https://u-paris.fr/'>Université Paris Cité</a>, jointly supervised by <a href='#'>Boban Veličković</a> and <a href='https://grigorsarg.github.io/'>Grigor Sargsyan</a>.
