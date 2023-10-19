@@ -7,10 +7,11 @@ nav: true
 nav_order: 2
 ---
 
-2019/20 \textbf{Linear Algebra}
-Faculty of Mathematics, University of Belgrade (Serbia)
-Exercise sessions
-    
-2018/19 \textbf{Analysis I}
-Faculty of Mathematics, University of Belgrade (Serbia)
-Exercise sessions
+<dl>
+  <dt>2019/20 Linear Algebra</dt>
+  <dd>Faculty of Mathematics, University of Belgrade (Serbia)</dd>
+  <dd>Exercise sessions</dd>
+  <dt>2018/19 Analysis I</dt>
+  <dd>Faculty of Mathematics, University of Belgrade (Serbia)</dd>
+  <dd>Exercise sessions</dd>
+</dl>
