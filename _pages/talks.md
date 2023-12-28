@@ -8,7 +8,7 @@ nav_order: 2
 ---
 <dl>
 <dt>2023 Marginalia to a Theorem of Asper\' o and Schindler</dt>
-<dd>Simon's Semester, University of Gdańsk (Poland)
+<dd>Simon's Semester, University of Gdańsk (Poland)</dd>
 <dt>2023 The Basics of Descriptive Inner Model Theory</dt>
 <dd>Working Group in Set Theory, IMJ-PRG, Paris (France)</dd>
 <dt>2023 Class HOD in models of Axiom of Determinacy</dt>
