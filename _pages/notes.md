@@ -15,7 +15,7 @@ nav_order: 6
   <li><a href="https://drive.google.com/file/d/1BN6S94tWWgqKevD6C0vPHZzqp6ilYT7E/view?usp=drive_link"> Introduction to Pmax </a></li>
   <li><a href="https://drive.google.com/file/d/1BxbHD30KxpME7xeNnBL6O1gF-vmgRJh_/view?usp=sharing"> Dense Ideal from Determinacy </a></li>
   <li><a href="https://drive.google.com/file/d/1Ur0MlmBFJcaycMTih6fxeAAEXFBrSpuz/view?usp=drive_link"> Proper Forcing Axiom </a></li>
-  <li><a href="https://drive.google.com/file/d/12fNwCy5yCFoY4UDBi1_EwZT8pNUJwSoT/view?usp=drive_link"> Iterating Proper Forcing </a> (with a <a href="https://drive.google.com/file/d/19QoTts6BHjb2eEUZlcvSASKKUdJXLoYM/view?usp=drive_link"> correction </a>) </li>
+  <li><a href="https://drive.google.com/file/d/12fNwCy5yCFoY4UDBi1_EwZT8pNUJwSoT/view?usp=drive_link"> Iterating Proper Forcing </a> (with a <a href="https://drive.google.com/file/d/19QoTts6BHjb2eEUZlcvSASKKUdJXLoYM/view?usp=drive_link"> correction</a>) </li>
   <li><a href="https://drive.google.com/file/d/1KVVhyZvGBjkHwyvC7p1nGpPTQo0pd3kc/view?usp=drive_link"> Extender Algebra </a></li>
   <li><a href="https://drive.google.com/file/d/1BHRu7kWp1pb6124j9r4t0NABBwIVDKLD/view?usp=drive_link"> Saturating NS-omega-one via an RCS iteration </a></li>
 </ul>
