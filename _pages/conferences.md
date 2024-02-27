@@ -9,6 +9,8 @@ nav_order: 4
 <dl>
 <dt>2023 Simon's Semester</dt>
 <dd>University of Gdańsk (Poland)</dd>
+<dt>2023 Perspectives on Set Theory</dt>
+<dd>Mathematical Institute of the Polish Academy of Sciences, Warsaw (Poland)</dd>
 <dt>2023 XVII International Luminy Workshop in Set Theory</dt>
 <dd>Centre International de Rencontres Mathématiques (CIRM), Marseille (France)</dd>
 <dt>2023 Dense Ideals Workshop</dt>
