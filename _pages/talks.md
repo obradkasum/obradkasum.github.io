@@ -7,7 +7,7 @@ nav: true
 nav_order: 2
 ---
 <dl>
-<dt>Local Definability of HOD in L(R)</dt>
+<dt>2024 Local Definability of HOD in L(R)</dt>
 <dd>Core Model Seminar, Carnegie Mellon University (Pittsburgh, United States of America) </dd>
 <dt>2023 Marginalia to a Theorem of Asperó and Schindler</dt>
 <dd>Simon's Semester, University of Gdańsk (Poland)</dd>
