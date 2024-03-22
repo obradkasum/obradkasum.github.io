@@ -7,6 +7,8 @@ nav: true
 nav_order: 2
 ---
 <dl>
+<dt>2024 Iteration Strategies</dt>
+<dd>General Logic Seminar, IMJ-PRG, Paris (France)</dd>
 <dt>2024 Local Definability of HOD in L(R)</dt>
 <dd>Core Model Seminar, Carnegie Mellon University (Pittsburgh, United States of America) </dd>
 <dt>2023 Marginalia to a Theorem of Asperó and Schindler</dt>
