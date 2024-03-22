@@ -10,7 +10,7 @@ nav_order: 2
 <dt>2024 Iteration Strategies</dt>
 <dd>General Logic Seminar, IMJ-PRG, Paris (France)</dd>
 <dt>2024 Local Definability of HOD in L(R)</dt>
-<dd>Core Model Seminar, Carnegie Mellon University (Pittsburgh, United States of America) </dd>
+<dd>Core Model Seminar, Carnegie Mellon University, Pittsburgh (United States of America) </dd>
 <dt>2023 Marginalia to a Theorem of Asperó and Schindler</dt>
 <dd>Simon's Semester, University of Gdańsk (Poland)</dd>
 <dt>2023 The Basics of Descriptive Inner Model Theory</dt>
