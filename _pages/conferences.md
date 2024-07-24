@@ -7,6 +7,10 @@ nav: true
 nav_order: 4
 ---
 <dl>
+<dt>2024 Young Set Theory Workshop</dt>
+<dd>Erdős Center, Budapest (Hungary)</dd>
+<dt>2024 2nd Wrocław Logic Conference</dt>
+<dd>Wrocław University of Science and Technology (Poland)</dd>
 <dt>2023 Simon's Semester</dt>
 <dd>University of Gdańsk (Poland)</dd>
 <dt>2023 Perspectives on Set Theory</dt>
