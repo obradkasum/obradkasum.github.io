@@ -27,8 +27,12 @@ nav_order: 2
 <dd>Seminar of PhD students in Set Theory, University Paris Cité (France)</dd>
 <dt>2021 Borel Determinacy</dt>
 <dd>Presentation for course "Large Cardinals" (by Boban Veličković), University Paris Cité (France)</dd>
-<dt>2016 Real-valued Measurable Cardinals</dt>
-<dd>Seminar for Mathematical Logic, Mathematical Institute of the Serbian Academy of Sciences and Arts, Belgrade (Serbia)</dd>
+    
+<dt>Real-valued Measurable Cardinals (High School Graduation Thesis)</dt>
+<dd>April 2016<br>
+    Seminar for Mathematical Logic<br>
+    Mathematical Institute of the Serbian Academy of Sciences and Arts<br>
+    <a href="https://drive.google.com/file/d/1uIM1v-IWGRDZTPX_bAUc3DqAhPMenIdh/view?usp=sharing"> Thesis</a>, <a href="https://drive.google.com/file/d/1CR-eQFEx366lXxOB1yp03mAaFMsD0Mwb/view?usp=sharing">Slides</a></dd>
     
 <dt>Types in Unification Theory</dt>
 <dd>June 2015<br>
