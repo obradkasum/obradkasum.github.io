@@ -29,9 +29,13 @@ nav_order: 2
 <dd>Presentation for course "Large Cardinals" (by Boban Veličković), University Paris Cité (France)</dd>
 <dt>2016 Real-valued Measurable Cardinals</dt>
 <dd>Seminar for Mathematical Logic, Mathematical Institute of the Serbian Academy of Sciences and Arts, Belgrade (Serbia)</dd>
-<dt>2015 Types in Unification Theory</dt>
-<dd>Conference "ETRAN 2015", Srebrno jezero (Serbia)</dd>
-<dt>Opinion on book "Mathematical Logic: Elements of Set Theory" (by Žarko Mijajlović and Zoran Petrović</dt>
+    
+<dt>Types in Unification Theory</dt>
+<dd>June 2015<br>
+    Conference "ETRAN 2015"<br>
+    <a href="https://drive.google.com/file/d/1MfKDvA4F9VklbhfS1earXUaPys76JkXB/view?usp=sharing"> Conference paper</a></dd>
+    
+<dt>Book Review: "Mijajlović, Petrović. Mathematical Logic. Elements of Set Theory"</dt>
 <dd>Spring 2013<br>
     Seminar for Mathematical Logic<br>
     Mathematical Institute of the Serbian Academy of Sciences and Arts</dd>
