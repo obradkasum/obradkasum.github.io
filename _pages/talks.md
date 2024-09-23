@@ -31,6 +31,8 @@ nav_order: 2
 <dd>Seminar for Mathematical Logic, Mathematical Institute of the Serbian Academy of Sciences and Arts, Belgrade (Serbia)</dd>
 <dt>2015 Types in Unification Theory</dt>
 <dd>Conference "ETRAN 2015", Srebrno jezero (Serbia)</dd>
-<dt>2013 Opinion on book "Mathematical Logic: Elements of Set Theory" (by Žarko Mijajlović and Zoran Petrović</dt>
-<dd>Seminar for Mathematical Logic, Mathematical Institute of the Serbian Academy of Sciences and Arts, Belgrade (Serbia)</dd>
+<dt>Spring 2013<br>
+    Opinion on book "Mathematical Logic: Elements of Set Theory" (by Žarko Mijajlović and Zoran Petrović</dt>
+<dd>Seminar for Mathematical Logic<br>
+    Mathematical Institute of the Serbian Academy of Sciences and Arts</dd>
 </dl>
