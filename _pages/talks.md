@@ -22,7 +22,7 @@ nav_order: 2
 <dd>December 2023<br>
     Simon's Semester<br>
     University of Gdańsk<br>
-    <a href = "https://www.youtube.com/watch?v=-tdWSdJQy-E&ab_channel=Rafa%C5%82Filip%C3%B3w"> Video <\a>, <a href = "https://drive.google.com/file/d/1o3ErYIG0zh0P9CqtX1Im6snmxLPZM4K1/view?usp=sharing"> Slides</a></dd>
+    <a href = "https://www.youtube.com/watch?v=-tdWSdJQy-E&ab_channel=Rafa%C5%82Filip%C3%B3w"> Video </a>, <a href = "https://drive.google.com/file/d/1o3ErYIG0zh0P9CqtX1Im6snmxLPZM4K1/view?usp=sharing"> Slides</a></dd>
     
 <dt>The Basics of Descriptive Inner Model Theory</dt>
 <dd>November 2023<br>
