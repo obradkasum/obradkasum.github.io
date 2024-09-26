@@ -76,5 +76,6 @@ nav_order: 2
 <dt>Book Review: "Mijajlović, Petrović. Mathematical Logic. Elements of Set Theory"</dt>
 <dd>Spring 2013<br>
     Seminar for Mathematical Logic<br>
-    Mathematical Institute of the Serbian Academy of Sciences and Arts</dd>
+    Mathematical Institute of the Serbian Academy of Sciences and Arts<br>
+    <a href = "https://www.knjizara.zavod.co.rs/matematicka-logika-elemen-teo">Book</a></dd>
 </dl>
