@@ -32,7 +32,8 @@ nav_order: 2
 <dt>Class HOD in models of Axiom of Determinacy</dt>
 <dd>August 2023<br>
     Seminar for Mathematical Logic<br>
-    Mathematical Institute of the Serbian Academy of Sciences and Arts</dd>
+    Mathematical Institute of the Serbian Academy of Sciences and Arts<br>
+    <a href = "https://www.youtube.com/watch?v=j_EdyxYzfs8&ab_channel=ObradKasum">Video</a></dd>
     
 <dt>Logical complexity, large cardinals, and determinacy</dt>
 <dd>June 2023<br>
