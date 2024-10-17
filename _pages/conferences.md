@@ -4,7 +4,7 @@ permalink: /conferences/
 title: conferences
 description:
 nav: true
-nav_order: 4
+nav_order: 5
 ---
 <dl>
 <dt>2024 Young Set Theory Workshop</dt>
