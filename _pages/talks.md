@@ -50,12 +50,6 @@ nav_order: 3
     Seminar of PhD students in Set Theory<br>
     Université Paris Cité</dd>
     
-<dt>Mini-course: Stationary Tower Forcing and Chang Model</dt>
-<dd>Fall 2021<br>
-    Seminar of PhD students in Set Theory<br>
-    Université Paris Cité<br>
-    <a href="https://drive.google.com/file/d/1VRXK0_VvUgR9Q3f8Rn3evPg5AIePT4iK/view?usp=drive_link"> Notes </a></dd>
-    
 <dt>Borel Determinacy</dt>
 <dd>Spring 2021<br>
     Presentation for the course "Large Cardinals"<br>
