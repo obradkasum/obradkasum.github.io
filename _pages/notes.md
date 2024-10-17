@@ -9,7 +9,6 @@ nav_order: 7
 <b> Note. </b> These are informal, personal notes. The results below are not due to me (except a few details). If the citations are not done properly, I apologize to the people hurt in this way. The notes are intended as learning aid to those who might struggle in the same places where I struggled.
 
 <ul>
-  <li><a href="https://drive.google.com/file/d/1irjAiXHzFf7ym7XnRyciXKZ_G2AyTDSP/view?usp=sharing"> Projective Determinacy </a> (Master's Thesis) </li>
   <li><a href="https://drive.google.com/file/d/1VRXK0_VvUgR9Q3f8Rn3evPg5AIePT4iK/view?usp=drive_link"> Stationary Tower Forcing </a></li>
   <li><a href="https://drive.google.com/file/d/1len5dVIBr0muqH_D8s97_Jflf3iOnRV1/view?usp=sharing"> Determinacy in L(R) </a></li>
   <li><a href="https://drive.google.com/file/d/1BN6S94tWWgqKevD6C0vPHZzqp6ilYT7E/view?usp=drive_link"> Introduction to Pmax </a></li>
