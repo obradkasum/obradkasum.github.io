@@ -4,7 +4,7 @@ permalink: /notes/
 title: notes
 description:
 nav: true
-nav_order: 6
+nav_order: 7
 ---
 <b> Note. </b> These are informal, personal notes. The results below are not due to me (except a few details). If the citations are not done properly, I apologize to the people hurt in this way. The notes are intended as learning aid to those who might struggle in the same places where I struggled.
 
