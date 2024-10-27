@@ -20,7 +20,7 @@ nav_order: 3
     
 <dt>Marginalia to a Theorem of Asperó and Schindler</dt>
 <dd>December 2023<br>
-    Simon's Semester<br>
+    Simons Semester<br>
     University of Gdańsk<br>
     <a href = "https://www.youtube.com/watch?v=-tdWSdJQy-E&ab_channel=Rafa%C5%82Filip%C3%B3w"> Video </a>, <a href = "https://drive.google.com/file/d/1o3ErYIG0zh0P9CqtX1Im6snmxLPZM4K1/view?usp=sharing"> Slides</a></dd>
     
@@ -64,7 +64,7 @@ nav_order: 3
     
 <dt>Types in Unification Theory</dt>
 <dd>June 2015<br>
-    Conference "ETRAN 2015"<br>
+    2nd International Conference on Electrical, Electronic and Computing Engineering (IcETRAN 2015)<br>
     <a href="https://drive.google.com/file/d/1MfKDvA4F9VklbhfS1earXUaPys76JkXB/view?usp=sharing"> Conference paper</a></dd>
     
 <dt>Book Review: "Mijajlović, Petrović. Mathematical Logic. Elements of Set Theory"</dt>
