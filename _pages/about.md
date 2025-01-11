@@ -20,5 +20,6 @@ social: false  # includes social icons at the bottom of the page
 ---
 
 I am a PhD student in Set Theory at <a href='https://u-paris.fr/'>Université Paris Cité</a>, jointly supervised by <a href='#'>Boban Veličković</a> and <a href='https://grigorsarg.github.io/'>Grigor Sargsyan</a>.
+I invite you to consult my <a href = 'https://drive.google.com/file/d/15cJNKzZGnFFm6hBUXmzz5oNLP-en-JEe/view?usp=sharing'>Research Statement</a>.
 
 I have a <a href='https://obradkasum.blogspot.com/'>blog</a> in which I try to present basic ideas of Set Theory to high school and college students interested in mathematics.
