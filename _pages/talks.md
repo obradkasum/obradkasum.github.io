@@ -4,7 +4,7 @@ permalink: /talks/
 title: talks
 description:
 nav: true
-nav_order: 3
+nav_order: 4
 ---
 <dl>
 <dt>Iteration Strategies</dt>
