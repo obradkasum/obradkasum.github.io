@@ -15,7 +15,7 @@ nav_order: 7
 
   <li><a href = "https://drive.google.com/file/d/1pVOx2gkG9yeu8JI2CLFmmZMb9HEnjELX/view?usp=sharing"> Generic \(\Sigma^2_1\)-maximality </a></li>
   
-  <li><a href="https://drive.google.com/file/d/1BN6S94tWWgqKevD6C0vPHZzqp6ilYT7E/view?usp=drive_link"> Introduction to \(\mathbb{P}_\max </a></li>
+  <li><a href="https://drive.google.com/file/d/1BN6S94tWWgqKevD6C0vPHZzqp6ilYT7E/view?usp=drive_link"> Introduction to \(\mathbb{P}_\max\) </a></li>
   
   <li><a href="https://drive.google.com/file/d/1BxbHD30KxpME7xeNnBL6O1gF-vmgRJh_/view?usp=sharing"> Dense Ideal from Determinacy </a></li>
   
