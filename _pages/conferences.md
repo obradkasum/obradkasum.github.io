@@ -7,7 +7,7 @@ nav: true
 nav_order: 8
 ---
 <dl>
-<dt>Oberwolfach Workshop 2503 - Set Theory</dt>
+<dt>2025 Oberwolfach Workshop 2503 - Set Theory</dt>
 <dd>Mathematisches Forschungsinstitut Oberwolfach (Germany)</dd>
   
 <dt>2024 Young Set Theory Workshop</dt>
