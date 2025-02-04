@@ -18,12 +18,12 @@ nav_order: 7
   <li><a href = "https://drive.google.com/file/d/1pVOx2gkG9yeu8JI2CLFmmZMb9HEnjELX/view?usp=sharing"> Generic \(\Sigma^2_1\)-maximality </a></li>
   
   <li><a href="https://drive.google.com/file/d/1BN6S94tWWgqKevD6C0vPHZzqp6ilYT7E/view?usp=drive_link"> Introduction to \(\mathbb{P}_\max\) </a></li>
+
+  <li><a href="https://drive.google.com/file/d/1KVVhyZvGBjkHwyvC7p1nGpPTQo0pd3kc/view?usp=drive_link"> Extender Algebra </a></li>
+
+  <li><a href="https://drive.google.com/file/d/1mDx0qIroiJmc0bXHqoXI02YlDzI0c60w/view?usp=sharing"> Club Filter without Choice </a></li>
   
   <li><a href="https://drive.google.com/file/d/1BxbHD30KxpME7xeNnBL6O1gF-vmgRJh_/view?usp=sharing"> Dense Ideal from Determinacy </a></li>
   
-  <li><a href="https://drive.google.com/file/d/1mDx0qIroiJmc0bXHqoXI02YlDzI0c60w/view?usp=sharing"> Club Filter without Choice </a></li>
-  
   <li><a href="https://drive.google.com/file/d/1Ur0MlmBFJcaycMTih6fxeAAEXFBrSpuz/view?usp=drive_link"> Proper Forcing Axiom </a></li>
-  
-  <li><a href="https://drive.google.com/file/d/1KVVhyZvGBjkHwyvC7p1nGpPTQo0pd3kc/view?usp=drive_link"> Extender Algebra </a></li>
 </ul>
