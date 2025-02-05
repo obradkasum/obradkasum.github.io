@@ -19,6 +19,8 @@ nav_order: 7
   
   <li><a href="https://drive.google.com/file/d/1BN6S94tWWgqKevD6C0vPHZzqp6ilYT7E/view?usp=drive_link"> Introduction to \(\mathbb{P}_\max\) </a></li>
 
+  <li><a href = 'https://drive.google.com/file/d/17Vnuz6qAM_TC2_b7Wyde3njYNKZocwyV/view?usp=sharing'> \(\mathsf{MM}^{++}\) and Generic \(\Pi_2^{H(\omega_2)}(\mathsf{UB})\)-maximality</a></li>
+
   <li><a href="https://drive.google.com/file/d/1KVVhyZvGBjkHwyvC7p1nGpPTQo0pd3kc/view?usp=drive_link"> Extender Algebra </a></li>
 
   <li><a href="https://drive.google.com/file/d/1mDx0qIroiJmc0bXHqoXI02YlDzI0c60w/view?usp=sharing"> Club Filter without Choice </a></li>
