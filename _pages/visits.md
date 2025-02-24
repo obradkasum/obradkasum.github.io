@@ -8,6 +8,9 @@ nav_order: 8
 ---
 <h1>workshops</h1>
 <dl>
+    <dt>2025 Arctic Set Theory Workshop 7</dt>
+    <dd>Kilpisjärvi Research Center of the University of Helsinki</dd>
+    
     <dt>2025 Oberwolfach Workshop 2503 - Set Theory</dt>
     <dd>Mathematisches Forschungsinstitut Oberwolfach (Germany)</dd>
 
