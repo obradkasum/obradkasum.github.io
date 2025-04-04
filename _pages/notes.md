@@ -21,6 +21,8 @@ nav_order: 7
 
   <li><a href = 'https://drive.google.com/file/d/1e0TlbfNb_haAyfK5BuRJImenTQ014GW5/view?usp=sharing'> Bounded Martin's Maximum, Axiom \((*)\), and Generic \(\Pi_2^{H(\omega_2)}\)-maximality</a></li>
 
+  <li><a href = 'https://drive.google.com/file/d/1p6jMsDQtA_NCE8upSx0fu46wyH017sol/view?usp=sharing'>Soundness of \(\Omega\)-logic</a></li>
+
   <li><a href="https://drive.google.com/file/d/1KVVhyZvGBjkHwyvC7p1nGpPTQo0pd3kc/view?usp=drive_link"> Extender Algebra </a></li>
 
   <li><a href="https://drive.google.com/file/d/1mDx0qIroiJmc0bXHqoXI02YlDzI0c60w/view?usp=sharing"> Club Filter without Choice </a></li>
