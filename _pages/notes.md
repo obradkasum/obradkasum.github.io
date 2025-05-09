@@ -15,6 +15,8 @@ nav_order: 7
   
   <li><a href="https://drive.google.com/file/d/1len5dVIBr0muqH_D8s97_Jflf3iOnRV1/view?usp=sharing"> Determinacy in \(L(\mathbb{R})\) </a></li>
 
+  <li><a href = "https://drive.google.com/file/d/1pVJQaCpa4Q5m93Y7ZqV4x0SpLw4156uW/view?usp=sharing">Sharps of Universally Baire Sets</a></li>
+
   <li><a href = "https://drive.google.com/file/d/1-LopPh6XhgyLldRqgPVu-yEumN-KtDeP/view?usp=sharing"> Generic \(\Sigma^2_1\)-maximality </a></li>
   
   <li><a href="https://drive.google.com/file/d/1BN6S94tWWgqKevD6C0vPHZzqp6ilYT7E/view?usp=drive_link"> Introduction to \(\mathbb{P}_\max\) </a></li>
