@@ -31,7 +31,7 @@ nav_order: 7
 
   <li><a href = "https://drive.google.com/file/d/1WN4iB5zOzgs2del5Wl47Pihy1rqZIZ8X/view?usp=sharing"> Normal ideals </a></li>
   
-  <li><a href="https://drive.google.com/file/d/1BxbHD30KxpME7xeNnBL6O1gF-vmgRJh_/view?usp=sharing"> Dense Ideal from Determinacy </a></li>
+  <li><a href="https://drive.google.com/file/d/1BxbHD30KxpME7xeNnBL6O1gF-vmgRJh_/view?usp=sharing"> Forcing a dense ideal on \(\omega_1\) over a model of determinacy </a></li>
   
   <li><a href="https://drive.google.com/file/d/1Ur0MlmBFJcaycMTih6fxeAAEXFBrSpuz/view?usp=drive_link"> Proper Forcing Axiom </a></li>
 </ul>
