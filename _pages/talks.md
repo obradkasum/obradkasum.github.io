@@ -7,6 +7,12 @@ nav: true
 nav_order: 4
 ---
 <dl>
+<dt>Investigation into phenomena surrounding universally Baire sets</dt>
+<dd>June 2025<br>
+    PhD defense<br>
+    Université Paris Cité<br>
+    <a href = 'https://drive.google.com/file/d/1DBDDbKdKOvc7ZlDcRmp0j7kI7PPMYrPw/view?usp=sharing'>Slides</a></dd>
+    
 <dt>Bottom-up Construction of Universally Baire Sets</dt>
 <dd>February 2025<br>
     Arctic Set Theory Workshop 7<br>
