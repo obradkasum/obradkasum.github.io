@@ -11,7 +11,7 @@ nav_order: 4
 <dd>June 2025<br>
     PhD defense<br>
     Université Paris Cité<br>
-    <a href = 'https://drive.google.com/file/d/1BU51qKDQdqgfbvyHWC1-QbbZ-ILZfr_h/view?usp=sharing'>Slides</a></dd>
+    <a href = 'https://www.youtube.com/watch?v=SmreMifvCsg&ab_channel=ObradKasum'>Video</a>, <a href = 'https://drive.google.com/file/d/1BU51qKDQdqgfbvyHWC1-QbbZ-ILZfr_h/view?usp=sharing'>Slides</a></dd>
     
 <dt>Bottom-up Construction of Universally Baire Sets</dt>
 <dd>February 2025<br>
