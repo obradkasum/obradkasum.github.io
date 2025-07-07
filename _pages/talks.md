@@ -7,6 +7,12 @@ nav: true
 nav_order: 4
 ---
 <dl>
+<dt>Универзално Берови скупови</dt>
+<dd>July 2025<br>
+    Seminar for Mathematical Logic<br>
+    Mathematical Institute of the Serbian Academy of Sciences and Arts<br>
+    <a href = "https://drive.google.com/file/d/1sNNwTHbYn-WfHYEgqLaIrLZvJBqAuLBw/view?usp=sharing">Slides</a></dd>
+    
 <dt>Investigation into phenomena surrounding universally Baire sets</dt>
 <dd>June 2025<br>
     PhD defense<br>
@@ -41,7 +47,7 @@ nav_order: 4
     Working Group in Set Theory<br>
     Institut de Mathématiques de Jussieu-Paris Rive Gauche</dd>
     
-<dt>Class HOD in models of Axiom of Determinacy</dt>
+<dt>Класа HOD у моделима аксиоме детерминисаности</dt>
 <dd>August 2023<br>
     Seminar for Mathematical Logic<br>
     Mathematical Institute of the Serbian Academy of Sciences and Arts<br>
@@ -68,7 +74,7 @@ nav_order: 4
     Université Paris Cité<br>
     <a href = "https://www.youtube.com/watch?v=XU4mDIvpRFA&list=PLxVQcyqPIuSyFxnGNxx_wUCVTyos_wdZ7&index=27&ab_channel=BobanVelickovic"> Video</a></dd>
     
-<dt>Real-valued Measurable Cardinals (High School Graduation Thesis)</dt>
+<dt>Реално-вредносно мерљиви кардинали (High School Graduation Thesis)</dt>
 <dd>April 2016<br>
     Seminar for Mathematical Logic<br>
     Mathematical Institute of the Serbian Academy of Sciences and Arts<br>
@@ -79,7 +85,7 @@ nav_order: 4
     2nd International Conference on Electrical, Electronic and Computing Engineering (IcETRAN 2015)<br>
     <a href="https://drive.google.com/file/d/1MfKDvA4F9VklbhfS1earXUaPys76JkXB/view?usp=sharing"> Conference paper</a></dd>
     
-<dt>Book Review: "Mijajlović, Petrović. Mathematical Logic. Elements of Set Theory"</dt>
+<dt>Book Review: "Мијајловић, Петровић - Математичка логика - елементи теорије скупова"</dt>
 <dd>Spring 2013<br>
     Seminar for Mathematical Logic<br>
     Mathematical Institute of the Serbian Academy of Sciences and Arts<br>
