@@ -7,7 +7,7 @@ subtitle: <a href='https://ww3.math.ucla.edu/'>UCLA Mathematics</a>
 profile:
   align: right
   image: Obrad Kasum.JPG
-  image_circular: false # crops the image to make it circular
+  image_circular: true # crops the image to make it circular
   address: >
     <a href = "https://www.math.ucla.edu/people/visiting/obrad">Contact information</a>
     <!--
