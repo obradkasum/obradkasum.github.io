@@ -50,6 +50,12 @@ nav_order: 8
 
 <h1>other</h1>
 <dl>
+    <dt>2025 IMPAN, Gdańsk, hosted by Grigor Sargsyan</dt>
+    <dd>From April 21 to April 30</dd>
+    
+    <dt>2025 University of Helsinki, hosted by Jouko Väänänen</dt>
+    <dd>From January 26 to August 04</dd>
+    
     <dt>2023 University of Gdańsk, Simons Semester</dt>
     <dd>From December 11 to December 24</dd>
     
