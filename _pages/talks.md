@@ -111,3 +111,21 @@ nav_order: 4
 </dl>
 
 <h1>Specialized courses</h1>
+
+<dl>
+  <dt>The \((\omega + 1)\)-iterability of \(V\)</dt>
+  <dd>Mathematical Institute of the Polish Academy of Sciences, Gdańsk (Poland)<br>
+  Spring 2025<br>
+  <a href="https://drive.google.com/file/d/17O2X6g0zjOrvE4PMVRk6H5jIm5aRgMJ4/view?usp=sharing">Notes</a></dd>
+    
+  <dt>Generic \(\Sigma^2_1\)-maximality</dt>
+  <dd>University of Helsinki (Finland)<br>
+  Spring 2025<br>
+  <a href="https://drive.google.com/file/d/1-LopPh6XhgyLldRqgPVu-yEumN-KtDeP/view?usp=sharing">Notes</a></dd>
+    
+  <dt>Stationary Tower Forcing</dt>
+  <dd>Université Paris Cité (France)<br>
+  Fall 2021<br>
+  <a href="https://drive.google.com/file/d/1VRXK0_VvUgR9Q3f8Rn3evPg5AIePT4iK/view?usp=drive_link">Notes</a></dd>
+</dl>
+
