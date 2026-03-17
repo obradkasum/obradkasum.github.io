@@ -110,7 +110,7 @@ nav_order: 4
     <a href = "https://www.knjizara.zavod.co.rs/matematicka-logika-elemen-teo">Book</a></dd>
 </dl>
 
-<h1>Specialized courses</h1>
+<h2>specialized courses</h2>
 
 <dl>
   <dt>The \((\omega + 1)\)-iterability of \(V\)</dt>
