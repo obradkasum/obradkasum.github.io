@@ -7,6 +7,9 @@ nav: true
 nav_order: 2
 ---
 <dl>
+<dt>2025-2026 Hedrick Assistant Adjunct Professor</dt>
+<dd>University of California, Los Angeles (USA)</dd>
+    
 <dt>2024-2025 Attaché temporaire d'enseignement et de recherche</dt>
 <dd>Université Paris Cité (France)</dd>
     
