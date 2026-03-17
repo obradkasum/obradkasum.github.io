@@ -7,6 +7,18 @@ nav: true
 nav_order: 4
 ---
 <dl>
+<dt>What can we say about the collection of all models of the Axiom of Determinacy?</dt>
+<dd>February 2026<br>
+    Caltech–UCLA Logic Seminar (a.k.a. Cabal Seminar)<br>
+    University of California, Los Angeles<br>
+    <a href = "https://www.math.ucla.edu/~ineeman/cabal-seminar.php">Abstract</a></dd>
+    
+<dt>On the minimum model of AD_R + "Theta is regular"</dt>
+<dd>December 2025<br>
+    Logic Colloquium<br>
+    University of California, Berkeley<br>
+    <a href = "https://logic.berkeley.edu/past-events.html">Abstract</a></dd>
+    
 <dt>Constructing Determined Sets from below</dt>
 <dd>November 2025<br>
     XVIII International Luminy Workshop in Set Theory<br>
