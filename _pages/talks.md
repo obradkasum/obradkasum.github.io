@@ -7,6 +7,12 @@ nav: true
 nav_order: 4
 ---
 <dl>
+<dt>Chang-plus Model as a Model of Determinacy</dt>
+<dd>June 2026<br>
+    Simons Semester -- Gödel's Program<br>
+    Mathematical Institute of the Polish Academy of Sciences<br>
+    <a href = "/assets/pdf/Варшава_2026">Notes</a></dd>
+    
 <dt>What can we say about the collection of all models of the Axiom of Determinacy?</dt>
 <dd>February 2026<br>
     Caltech–UCLA Logic Seminar (a.k.a. Cabal Seminar)<br>
