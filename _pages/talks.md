@@ -11,7 +11,7 @@ nav_order: 4
 <dd>June 2026<br>
     Simons Semester -- Gödel's Program<br>
     Mathematical Institute of the Polish Academy of Sciences<br>
-    <a href = "/assets/pdf/Варшава_2026">Notes</a></dd>
+    <a href = "/assets/pdf/Варшава_2026.pdf">Notes</a></dd>
     
 <dt>What can we say about the collection of all models of the Axiom of Determinacy?</dt>
 <dd>February 2026<br>
