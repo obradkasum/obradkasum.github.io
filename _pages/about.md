@@ -9,7 +9,7 @@ profile:
   image: Obrad Kasum.JPG
   image_circular: true # crops the image to make it circular
   address: >
-    <a href = "https://www.math.ucla.edu/people/visiting/obrad">Contact information</a>
+    <a href = "https://math.berkeley.edu/people/obrad-kasum">Contact information</a>
     <!--
     <p>Office 747</p>
     <p>8 Place Aurélie Nemours</p>
