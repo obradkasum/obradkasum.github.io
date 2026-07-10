@@ -6,8 +6,8 @@ subtitle: Обрад Касум
 
 profile:
   align: right
-  image: Obrad Kasum.JPG
-  image_circular: true # crops the image to make it circular
+  image: 26645.jpg
+  image_circular: false # crops the image to make it circular
   address: >
     <a href = "https://math.berkeley.edu/people/obrad-kasum">Contact information</a>
     <!--
@@ -27,3 +27,5 @@ During the academic year 2025/2026, I was a Hedrick Assistant Adjunct Professor 
 
 I was admitted to the degree of Doctor of <a href='https://u-paris.fr/'>Université Paris Cité</a> in 18 June 2025.
 The title of my thesis is "<a href = "https://hal.science/tel-05126507v1">Investigation into phenomena surrounding universally Baire sets</a>", and it was supervised by <a href='https://webusers.imj-prg.fr/~boban.velickovic/'>Boban Veličković</a> (Бобан Величковић) and <a href='https://grigorsarg.github.io/'>Grigor Sargsyan</a> (Գրիգոր Սարգսյան).
+
+<p style="font-size: 80%;">Photo credit: Marlene Ruf, Archives of the Mathematisches Forschungsinstitut Oberwolfach</p>
