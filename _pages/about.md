@@ -5,7 +5,7 @@ permalink: /
 subtitle: Обрад Касум
 
 profile:
-  align: right
+  align: top
   image: 26645.jpg
   image_circular: false # crops the image to make it circular
   address: >
