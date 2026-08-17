@@ -6,7 +6,7 @@ description:
 nav: true
 nav_order: 7
 ---
-<a href = "/assets/pdf/Ординали_и_ординална_аритметика.pdf">Ординали и ординална аритметика</a></dd>
+<a href = "/assets/pdf/Ординали_и_ординална_аритметика.pdf">Ординали и ординална аритметика</a>
 
 <ul> 
   <li><a href = 'https://drive.google.com/file/d/1irjAiXHzFf7ym7XnRyciXKZ_G2AyTDSP/view?usp=sharing'>Projective Determinacy</a></li>
@@ -36,4 +36,4 @@ nav_order: 7
   <li><a href="https://drive.google.com/file/d/1Ur0MlmBFJcaycMTih6fxeAAEXFBrSpuz/view?usp=drive_link"> Proper Forcing Axiom </a></li>
 </ul>
 
-<a href = "/assets/pdf/Реално-вредносно_мерљиви_кардинали.pdf">Реално-вредносно мерљиви кардинали</a></dd>
+<a href = "/assets/pdf/Реално-вредносно_мерљиви_кардинали.pdf">Реално-вредносно мерљиви кардинали</a>
