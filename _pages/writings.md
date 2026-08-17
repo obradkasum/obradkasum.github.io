@@ -1,12 +1,12 @@
 ---
 layout: page
-permalink: /notes/
-title: notes
+permalink: /writings/
+title: writings
 description:
 nav: true
 nav_order: 7
 ---
-<b> Nota bene. </b> Below are links to my interpretations of other people's results. If the citations are not done properly, I apologize to the people who are hurt in this way. The notes are meant as a learning aid. People seem to disagree about what is the right way to write mathematics, so I think these notes may be useful for those who share my preferences.
+<a href = "/assets/pdf/Ординали_и_ординална_аритметика.pdf">Ординали и ординална аритметика</a></dd>
 
 <ul> 
   <li><a href = 'https://drive.google.com/file/d/1irjAiXHzFf7ym7XnRyciXKZ_G2AyTDSP/view?usp=sharing'>Projective Determinacy</a></li>
@@ -35,3 +35,5 @@ nav_order: 7
   
   <li><a href="https://drive.google.com/file/d/1Ur0MlmBFJcaycMTih6fxeAAEXFBrSpuz/view?usp=drive_link"> Proper Forcing Axiom </a></li>
 </ul>
+
+<a href = "/assets/pdf/Реално-вредносно_мерљиви_кардинали.pdf">Реално-вредносно мерљиви кардинали</a></dd>
