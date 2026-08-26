@@ -35,6 +35,10 @@ nav_order: 7
   <li><a href="https://drive.google.com/file/d/1Ur0MlmBFJcaycMTih6fxeAAEXFBrSpuz/view?usp=drive_link"> Proper Forcing Axiom </a></li>
 </ul>
 
-<a href = "/assets/pdf/Реално-вредносно_мерљиви_кардинали.pdf">Реално-вредносно мерљиви кардинали</a>
-<a href = "/assets/pdf/Ординали_и_ординална_аритметика.pdf">Ординали и ординална аритметика</a>
-<a href = "/assets/pdf/math114l">Mathematical Logic (UCLA Math 114L)</a>
+<ol>
+  <li><a href = "/assets/pdf/Реално-вредносно_мерљиви_кардинали.pdf">Реално-вредносно мерљиви кардинали</a></li>
+
+  <li><a href = "/assets/pdf/Ординали_и_ординална_аритметика.pdf">Ординали и ординална аритметика</a></li>
+
+  <li><a href = "/assets/pdf/math114l">Mathematical Logic (UCLA Math 114L)</a></li>
+</ol>
