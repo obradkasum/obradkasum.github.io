@@ -40,5 +40,5 @@ nav_order: 7
 
   <li><a href = "/assets/pdf/Ординали_и_ординална_аритметика.pdf">Ординали и ординална аритметика</a></li>
 
-  <li><a href = "/assets/pdf/math114l">Mathematical Logic (UCLA Math 114L)</a></li>
+  <li><a href = "/assets/pdf/math114l.pdf">Mathematical Logic (UCLA Math 114L)</a></li>
 </ol>
