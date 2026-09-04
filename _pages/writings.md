@@ -42,3 +42,7 @@ nav_order: 7
 
   <li><a href = "/assets/pdf/math114l.pdf">Mathematical Logic (UCLA Math 114L)</a></li>
 </ol>
+
+<ol>
+  <li><a href="/assets/pdf/Formal_writing.pdf">Reasoning and Writing Formally</a></li>
+</ol>
