@@ -8,6 +8,11 @@ nav_order: 6
 ---
 
 <dl>
+  <dt>Mathematical Logic (Math 114L)</dt>
+  <dd>University of California, Los Angeles (USA)<br>
+  Spring 2026<br>
+  <a href="/assets/pdf/math114l.pdf">Notes</a></dd>
+
   <dt>Introduction to Discrete Structures (Math 61)</dt>
   <dd>University of California, Los Angeles (USA)<br>
   Winter 2026</dd>

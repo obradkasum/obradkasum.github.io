@@ -7,6 +7,9 @@ nav: true
 nav_order: 2
 ---
 <dl>
+<dt>2026-2029 Charles B. Morrey, Jr. Math Fellow</dt>
+<dd>University of California, Berkeley (USA)</dd>
+
 <dt>2025-2026 Hedrick Assistant Adjunct Professor</dt>
 <dd>University of California, Los Angeles (USA)</dd>
     
