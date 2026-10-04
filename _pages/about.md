@@ -21,7 +21,7 @@ latest_posts: false  # includes a list of the newest posts
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
-I am a Charles B. Morrey, Jr. Math Fellow at the <a href="https://math.berkeley.edu/">Department of Mathematics</a> of <a href="https://www.berkeley.edu/">University of California, Berkeley</a>. My research interests lie in Set Theory (Inner Model Theory, Mouse Set Conjecture, Generic Absoluteness). For more details, please take a look at my <a href = '/assests/Research_Statement.pdf'>Research Statement</a>.
+I am a Charles B. Morrey, Jr. Math Fellow at the <a href="https://math.berkeley.edu/">Department of Mathematics</a> of <a href="https://www.berkeley.edu/">University of California, Berkeley</a>. My research interests lie in Set Theory (Inner Model Theory, Mouse Set Conjecture, Generic Absoluteness). For more details, please take a look at my <a href = '/assests/pdf/Research_Statement.pdf'>Research Statement</a>.
 
 During the academic year 2025/2026, I was a Hedrick Assistant Adjunct Professor at the <a href = "https://ww3.math.ucla.edu/">Department of Mathematics</a> of <a href = "https://www.ucla.edu/">University of California, Los Angeles</a>, where I was supervised by <a href = "https://www.math.ucla.edu/~ineeman/">Itay Neeman</a> (איתי נאמן). 
 
