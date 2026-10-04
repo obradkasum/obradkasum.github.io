@@ -8,7 +8,7 @@ nav_order: 7
 ---
 
 <ul> 
-  <li><a href = 'assets/pdf/Projective_Determinacy.pdf'>Projective Determinacy</a></li>
+  <li><a href = '/assets/pdf/Projective_Determinacy.pdf'>Projective Determinacy</a></li>
   
   <li><a href="https://drive.google.com/file/d/1VRXK0_VvUgR9Q3f8Rn3evPg5AIePT4iK/view?usp=drive_link"> Stationary Tower Forcing </a></li>
   
