@@ -36,6 +36,10 @@ nav_order: 7
 </ul>
 
 <ol>
+  <li><a href = '/assets/pdf/The%20Measurability%20of%20the%20Successor%20of%20a%20Rank%20Berkeley%20Cardinal.pdf'>The Measurability of the Successor of a Rank Berkeley Cardinal</a></li>
+</ol>
+
+<ol>
   <li><a href = "/assets/pdf/Реално-вредносно_мерљиви_кардинали.pdf">Реално-вредносно мерљиви кардинали</a></li>
 
   <li><a href = "/assets/pdf/Ординали_и_ординална_аритметика.pdf">Ординали и ординална аритметика</a></li>
